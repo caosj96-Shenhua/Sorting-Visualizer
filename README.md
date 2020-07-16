@@ -1,3 +1,10 @@
+## Welocome to Sorting Visualizer
+I built this application because sorting is important in programming for the same reason it is important in everyday life. It is easier and faster to locate items in a sorted list than unsorted and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it.<br />
+
+
+You can access it here: https://caosj96-shenhua.github.io/Sorting-Visualizer/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

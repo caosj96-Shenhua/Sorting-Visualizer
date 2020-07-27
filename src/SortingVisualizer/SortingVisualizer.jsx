@@ -32,7 +32,7 @@ export default class SortingVisualizer extends React.Component {
     this.state = {
       array: [],
       ANIMATION_SPEED_MS: 2,
-      NUMBER_OF_ARRAY_BARS: 100
+      NUMBER_OF_ARRAY_BARS: 85
     };
   }
 
@@ -237,7 +237,7 @@ export default class SortingVisualizer extends React.Component {
             <RangeSlider
               value={this.state.NUMBER_OF_ARRAY_BARS}
               min={20}
-              max={120}
+              max={100}
               step={1}
               tooltipPlacement='bottom'
               size='sm'
